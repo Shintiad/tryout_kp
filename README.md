@@ -5,7 +5,7 @@ Projek Tryout Menggunakan Framework CodeIgniter 3 dan Database PostgreSQL
 - Clone seperti biasa
 - Pastikan menggunakan PHP versi 7 (saya menggunakan versi 7.2.34)
 - Pastikan jalankan apache dan database di xampp atau laragon
-- Pastikan telah import database
+- Pastikan telah import database dan sesuaikan dengan nama file sql
 - Jalankan pada browser (local) dengan ketik url: http://localhost/tryout/public/
 - Login Admin dengan:
   Username: Admin
