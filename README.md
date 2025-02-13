@@ -8,8 +8,10 @@ Projek Tryout Menggunakan Framework CodeIgniter 3 dan Database PostgreSQL
 - Pastikan telah import database dan sesuaikan dengan nama file sql
 - Jalankan pada browser (local) dengan ketik url: http://localhost/tryout/public/
 - Login Admin dengan:
-  Username: Admin
-  Password: password
+
+  Username: **Admin**
+
+  Password: **password**
   
 Jika proses menjalankan pada local terkendala, silahkan coba:
 - Pada file instalasi PostgreSQL (saya di C:/Program Files/PostgreSQL/16/data/pg_hba.conf)
